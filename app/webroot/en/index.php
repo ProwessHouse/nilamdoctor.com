@@ -494,8 +494,8 @@
           <div id="testimonial-mf" class="owl-carousel owl-theme">
 		  		  <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/testimonial-3.jpg" alt="" class="rounded-circle b-shadow-a">
-                <span class="author">Danny Wetterich</span>
+                <img src="img/testimonial-1.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author">Late Mr. Danny Wetterich<br><small>CEO, GreenBank Capital Inc.</small></span>
               </div>
               <div class="content-test">
                 <p class="description lead">
@@ -507,7 +507,7 @@
 		  <div class="testimonial-box">
               <div class="author-test">
                 <img src="img/testimonial-3.jpg" alt="" class="rounded-circle b-shadow-a">
-                <span class="author">Glynn Willett</span>
+                <span class="author">Glynn Willett<br><small>Co-CEO and Co-Founder at MobyMax Inc.</small></span>
               </div>
               <div class="content-test">
                 <p class="description lead">
@@ -519,7 +519,7 @@
             <div class="testimonial-box">
               <div class="author-test">
                 <img src="img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
-                <span class="author"> Maxime (CHAI KING) NGAN</span>
+                <span class="author"> Maxime (CHAI KING) NGAN<br><small>CEO,  Director Of Operations at TALOS RENEWABLE POWER ASIA PACIFIC PTY LTD.</small></span>
               </div>
               <div class="content-test">
                 <p class="description lead">
@@ -531,7 +531,7 @@
             <div class="testimonial-box">
               <div class="author-test">
                 <img src="img/testimonial-4.jpg" alt="" class="rounded-circle b-shadow-a">
-                <span class="author">Khalid Amin</span>
+                <span class="author">Khalid Amin<br><small> Project Manager at Learn without Limits </small></span>
               </div>
               <div class="content-test">
                 <p class="description lead">
@@ -585,7 +585,7 @@
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">Nilam Doctor</span>
                 </a>
               </div>
               <div class="post-date">
@@ -616,7 +616,7 @@
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">Nilam Doctor</span>
                 </a>
               </div>
               <div class="post-date">
@@ -647,7 +647,7 @@
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">Nilam Doctor</span>
                 </a>
               </div>
               <div class="post-date">
