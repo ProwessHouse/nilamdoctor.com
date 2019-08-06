@@ -8,7 +8,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>DevFolio Bootstrap Template</title>
+  <title>Nilam Doctor - Crypto & BlockChain Consultant</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -43,7 +43,7 @@
   <!--/ Nav Star /-->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">DevFolio</a>
+      <a class="navbar-brand js-scroll" href="#page-top"><img src="img/NilamDoctor.png" alt="NilamDoctor" txt="NilamDoctor" width="200"></a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
@@ -83,8 +83,8 @@
       <div class="table-cell">
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
-          <h1 class="intro-title mb-4">I am Morgan Freeman</h1>
-          <p class="intro-subtitle"><span class="text-slider-items">CEO DevFolio,Web Developer,Web Designer,Frontend Developer,Graphic Designer</span><strong class="text-slider"></strong></p>
+          <h1 class="intro-title mb-4">I am Nilam Doctor</h1>
+          <p class="intro-subtitle"><span class="text-slider-items">CEO Hitarth IT Services Pvt. Ltd.,BlockChain Consultant,CryptoCurrency,Software Developer,App Developer, Software Coach,Venture Capitalist,Seed Capitalist</span><strong class="text-slider"></strong></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
       </div>
@@ -95,50 +95,52 @@
   <section id="about" class="about-mf sect-pt4 route">
     <div class="container">
       <div class="row">
-        <div class="col-sm-12">
+        <div class="col-sm-12" style="text-align:center">
+		
           <div class="box-shadow-full">
+		  <img src="img/NilamDoctor.png"><hr style="height:5px">
             <div class="row">
-              <div class="col-md-6">
+              <div class="col-md-6" style="text-align:left">
                 <div class="row">
                   <div class="col-sm-6 col-md-5">
                     <div class="about-img">
-                      <img src="img/testimonial-2.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                      <img src="img/NilamDoctor.jpg" class="img-fluid rounded b-shadow-a" alt="">
                     </div>
                   </div>
                   <div class="col-sm-6 col-md-7">
                     <div class="about-info">
-                      <p><span class="title-s">Name: </span> <span>Morgan Freeman</span></p>
-                      <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
-                      <p><span class="title-s">Email: </span> <span>contact@example.com</span></p>
-                      <p><span class="title-s">Phone: </span> <span>(617) 557-0089</span></p>
+                      <p><span class="title-s">Name: </span> <span>Nilam Doctor</span></p>
+                      <p><span class="title-s">Profile: </span> <span>full stack Consultant</span></p>
+                      <p><span class="title-s">Email: </span> <span>me@nilamdoctor.com</span></p>
+                      <p><span class="title-s">Phone: </span> <span>+91 759-721-(9319)</span></p>
                     </div>
                   </div>
                 </div>
                 <div class="skill-mf">
                   <p class="title-s">Skill</p>
-                  <span>HTML</span> <span class="pull-right">85%</span>
+                  <span>Computer Software Languages</span> <span class="pull-right">85%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>CSS3</span> <span class="pull-right">75%</span>
+                  <span>CryptoCurrency</span> <span class="pull-right">85%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>PHP</span> <span class="pull-right">50%</span>
+                  <span>BlockChain & its Applications</span> <span class="pull-right">90%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>JAVASCRIPT</span> <span class="pull-right">90%</span>
+                  <span>Business Consultant</span> <span class="pull-right">90%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                 </div>
               </div>
-              <div class="col-md-6">
+              <div class="col-md-6" style="text-align:left">
                 <div class="about-me pt-4 pt-md-0">
                   <div class="title-box-2">
                     <h5 class="title-left">
@@ -146,20 +148,13 @@
                     </h5>
                   </div>
                   <p class="lead">
-                    Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id
-                    imperdiet et, porttitor
-                    at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla
-                    porttitor accumsan tincidunt.
+				  Nilam Doctor is an independent Crypto Currency & Blockchain consultant. Formerly he was President & CTO of GreenCoinX. He is the lead developer of GreenCoinX since inception. Previously he was Owner of Hitarth Consultants a software consultancy firm focused on web based projects and digital currency.
                   </p>
                   <p class="lead">
-                    Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis
-                    porttitor volutpat. Vestibulum
-                    ac diam sit amet quam vehicula elementum sed sit amet dui. porttitor at sem.
-                  </p>
+                  Until developing GreenCoinX, he was a Grant Committee Member of the Bitcoin Foundation promoting the Bitcoin protocol. He has been a project manager and lead software developer for online educational companies, Learn without Limits, MobyMax, and Safal Education.
+				  </p>
                   <p class="lead">
-                    Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-                    Nulla porttitor accumsan
-                    tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+                     He was a software consultant to Gujarat Vidyapith compiling the web based Collected Works of Mahatma Gandhi. He has an MBA in Finance and a Bacahelor of Engineering from Gujarat University.
                   </p>
                 </div>
               </div>
@@ -177,10 +172,10 @@
         <div class="col-sm-12">
           <div class="title-box text-center">
             <h3 class="title-a">
-              Services
+              My Services
             </h3>
             <p class="subtitle-a">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              I provide coaching and consultancy to individuals and corporates.
             </p>
             <div class="line-mf"></div>
           </div>
@@ -193,11 +188,9 @@
               <span class="ico-circle"><i class="ion-monitor"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Web Design</h2>
+              <h2 class="s-title">IT Project</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+                
               </p>
             </div>
           </div>
@@ -208,11 +201,10 @@
               <span class="ico-circle"><i class="ion-code-working"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Web Development</h2>
+              <h2 class="s-title">Software solutions</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+                
+				
               </p>
             </div>
           </div>
@@ -223,11 +215,9 @@
               <span class="ico-circle"><i class="ion-camera"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Photography</h2>
+              <h2 class="s-title">CryptoCurrency</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+                
               </p>
             </div>
           </div>
@@ -238,11 +228,9 @@
               <span class="ico-circle"><i class="ion-android-phone-portrait"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Responsive Design</h2>
+              <h2 class="s-title">BlockChain Solutions</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+                
               </p>
             </div>
           </div>
@@ -253,11 +241,9 @@
               <span class="ico-circle"><i class="ion-paintbrush"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Graphic Design</h2>
+              <h2 class="s-title">AI, ML, AR, BigData</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+
               </p>
             </div>
           </div>
@@ -268,11 +254,9 @@
               <span class="ico-circle"><i class="ion-stats-bars"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Marketing Services</h2>
+              <h2 class="s-title">Idea to Implementation</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+
               </p>
             </div>
           </div>
@@ -292,8 +276,8 @@
               <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">450</p>
-              <span class="counter-text">WORKS COMPLETED</span>
+              <p class="counter">45</p>
+              <span class="counter-text">CORPORATE CLIENTS</span>
             </div>
           </div>
         </div>
@@ -303,7 +287,7 @@
               <span class="ico-circle"><i class="ion-ios-calendar-outline"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">15</p>
+              <p class="counter">35</p>
               <span class="counter-text">YEARS OF EXPERIENCE</span>
             </div>
           </div>
@@ -314,8 +298,8 @@
               <span class="ico-circle"><i class="ion-ios-people"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">550</p>
-              <span class="counter-text">TOTAL CLIENTS</span>
+              <p class="counter">600</p>
+              <span class="counter-text">INDIVIDUAL CLIENTS</span>
             </div>
           </div>
         </div>
@@ -325,8 +309,8 @@
               <span class="ico-circle"><i class="ion-ribbon-a"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">36</p>
-              <span class="counter-text">AWARD WON</span>
+              <p class="counter">360</p>
+              <span class="counter-text">COACHED INDIVIDUALS</span>
             </div>
           </div>
         </div>
@@ -344,7 +328,7 @@
               Portfolio
             </h3>
             <p class="subtitle-a">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Successful completion of projects
             </p>
             <div class="line-mf"></div>
           </div>
@@ -360,9 +344,9 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Lorem impsum dolor</h2>
+                    <h2 class="w-title"><a href="https://www.mobymax.com/" target="_blank">Moby Max Project</a></h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Web Project Development</span> / <span class="w-date">2006 - 2012</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -384,9 +368,9 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Loreda Cuno Nere</h2>
+                    <h2 class="w-title">GreenCoinX</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">CryptoCurrency</span> / <span class="w-date">2013-2017</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -408,9 +392,9 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Mavrito Lana Dere</h2>
+                    <h2 class="w-title">BlockChain Evolution</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Identifiable BlockChain Solution</span> / <span class="w-date">2017-</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -432,9 +416,9 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Bindo Laro Cado</h2>
+                    <h2 class="w-title">SiiCrypto.com</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Crypto Currency Exchange</span> / <span class="w-date">2015-2018</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -456,9 +440,9 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Studio Lena Mado</h2>
+                    <h2 class="w-title">XCG Wallet</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">CryptoCurrency Online / Mobile Wallet</span> / <span class="w-date">2016-2018</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -480,9 +464,9 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Studio Big Bang</h2>
+                    <h2 class="w-title">MicraHosting.com</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2017</span>
+                      <span class="w-ctegory">Server Deployment</span> / <span class="w-date">2012-</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -508,15 +492,38 @@
       <div class="row">
         <div class="col-md-12">
           <div id="testimonial-mf" class="owl-carousel owl-theme">
-            <div class="testimonial-box">
+		  		  <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
-                <span class="author">Xavi Alonso</span>
+                <img src="img/testimonial-1.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author">Late Mr. Danny Wetterich<br><small>CEO, GreenBank Capital Inc.</small></span>
               </div>
               <div class="content-test">
                 <p class="description lead">
-                  Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit.
+    Nilam has excellent knowledge of Crypto Currency and Blockchain. Has implemented all projects successfully. He is also an excellent trainer.
+                </p>
+                <span class="comit"><i class="fa fa-quote-right"></i></span>
+              </div>
+            </div>
+		  <div class="testimonial-box">
+              <div class="author-test">
+                <img src="img/testimonial-3.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author">Glynn Willett<br><small>Co-CEO and Co-Founder at MobyMax Inc.</small></span>
+              </div>
+              <div class="content-test">
+                <p class="description lead">
+    Nilam consistently managed projects well and delivered on time. He managed over a 100 tutors for our service as well as provided the programming required.
+                </p>
+                <span class="comit"><i class="fa fa-quote-right"></i></span>
+              </div>
+            </div>
+            <div class="testimonial-box">
+              <div class="author-test">
+                <img src="img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author"> Maxime (CHAI KING) NGAN<br><small>CEO,  Director Of Operations at TALOS RENEWABLE POWER ASIA PACIFIC PTY LTD.</small></span>
+              </div>
+              <div class="content-test">
+                <p class="description lead">
+                  Reliable ,development partner for Green Coin Project.
                 </p>
                 <span class="comit"><i class="fa fa-quote-right"></i></span>
               </div>
@@ -524,12 +531,11 @@
             <div class="testimonial-box">
               <div class="author-test">
                 <img src="img/testimonial-4.jpg" alt="" class="rounded-circle b-shadow-a">
-                <span class="author">Marta Socrate</span>
+                <span class="author">Khalid Amin<br><small> Project Manager at Learn without Limits </small></span>
               </div>
               <div class="content-test">
                 <p class="description lead">
-                  Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit.
+    I have worked with Nilam Doctor at Learn with Limits on couple of PHP, MySQL projects. His technical skills are brilliant. Very positive attitude towards work.
                 </p>
                 <span class="comit"><i class="fa fa-quote-right"></i></span>
               </div>
@@ -541,6 +547,7 @@
   </div>
 
   <!--/ Section Blog Star /-->
+  <!--
   <section id="blog" class="blog-mf sect-pt4 route">
     <div class="container">
       <div class="row">
@@ -579,7 +586,7 @@
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">Nilam Doctor</span>
                 </a>
               </div>
               <div class="post-date">
@@ -610,7 +617,7 @@
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">Nilam Doctor</span>
                 </a>
               </div>
               <div class="post-date">
@@ -641,7 +648,7 @@
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">Nilam Doctor</span>
                 </a>
               </div>
               <div class="post-date">
@@ -653,6 +660,7 @@
       </div>
     </div>
   </section>
+  -->
   <!--/ Section Blog End /-->
 
   <!--/ Section Contact-Footer Star /-->
@@ -687,6 +695,13 @@
                             <div class="validation"></div>
                           </div>
                         </div>
+						<div class="col-md-12 mb-3">
+                          <div class="form-group">
+                            <input type="text" name="phone" class="form-control" id="phone" placeholder="Your Phone" data-rule="minlen:10" data-msg="Please enter at least 10 digits" />
+                            <div class="validation"></div>
+                          </div>
+                        </div>
+
                         <div class="col-md-12 mb-3">
                             <div class="form-group">
                               <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
@@ -714,23 +729,30 @@
                   </div>
                   <div class="more-info">
                     <p class="lead">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                      expedita aperiam aliquid at.
-                      Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                      mollitia inventore?
+                      You can contact me for
+					  <ul>
+					  <li>Project consultancy</li>
+					  <li>CryptCurrency consultancy</li>
+					  <li>Blockchain projects</li>
+					  <li>Mobile App Developments</li>
+					  <li>Individual Coaching</li>
+					  <li>Corporate consultancy</li>
+					  
+					  </ul>
                     </p>
                     <ul class="list-ico">
-                      <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                      <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                      <li><span class="ion-email"></span> contact@example.com</li>
+                      <li><span class="ion-ios-location"></span> 201, Upnishad Complex, Near Shreyas Railway Crossing, Manekbaug, Ahmedabad - 380015. Gujarat India</li>
+                      <li><span class="ion-ios-telephone"></span> +91 - 759 721 9319</li>
+                      <li><span class="ion-email"></span> me@nilamdoctor.com</li>
                     </ul>
                   </div>
                   <div class="socials">
                     <ul>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
+					  <li><a href="https://www.linkedin.com/in/nilamdoc/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
+                      <li><a href="https://www.facebook.com/nilamdoctorblockchain/" target="_blank"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
+                      <li><a href="https://www.instagram.com/nilamdoc/" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
+                      <li><a href="https://twitter.com/nilamdoc" target="_blank"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
+                      
                     </ul>
                   </div>
                 </div>
@@ -745,15 +767,16 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="copyright-box">
-              <p class="copyright">&copy; Copyright <strong>DevFolio</strong>. All Rights Reserved</p>
+              <p class="copyright">&copy; Copyright <strong>Nilam Doctor</strong>. All Rights Reserved</p>
               <div class="credits">
                 <!--
                   All the links in the footer should remain intact.
                   You can delete the links only if you purchased the pro version.
                   Licensing information: https://bootstrapmade.com/license/
                   Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
-                -->
+                
                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+				-->
               </div>
             </div>
           </div>
