@@ -492,15 +492,38 @@
       <div class="row">
         <div class="col-md-12">
           <div id="testimonial-mf" class="owl-carousel owl-theme">
-            <div class="testimonial-box">
+		  		  <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
-                <span class="author">Xavi Alonso</span>
+                <img src="img/testimonial-3.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author">Danny Wetterich</span>
               </div>
               <div class="content-test">
                 <p class="description lead">
-                  Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit.
+    Nilam has excellent knowledge of Crypto Currency and Blockchain. Has implemented all projects successfully. He is also an excellent trainer.
+                </p>
+                <span class="comit"><i class="fa fa-quote-right"></i></span>
+              </div>
+            </div>
+		  <div class="testimonial-box">
+              <div class="author-test">
+                <img src="img/testimonial-3.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author">Glynn Willett</span>
+              </div>
+              <div class="content-test">
+                <p class="description lead">
+    Nilam consistently managed projects well and delivered on time. He managed over a 100 tutors for our service as well as provided the programming required.
+                </p>
+                <span class="comit"><i class="fa fa-quote-right"></i></span>
+              </div>
+            </div>
+            <div class="testimonial-box">
+              <div class="author-test">
+                <img src="img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author"> Maxime (CHAI KING) NGAN</span>
+              </div>
+              <div class="content-test">
+                <p class="description lead">
+                  Reliable ,development partner for Green Coin Project.
                 </p>
                 <span class="comit"><i class="fa fa-quote-right"></i></span>
               </div>
@@ -508,12 +531,11 @@
             <div class="testimonial-box">
               <div class="author-test">
                 <img src="img/testimonial-4.jpg" alt="" class="rounded-circle b-shadow-a">
-                <span class="author">Marta Socrate</span>
+                <span class="author">Khalid Amin</span>
               </div>
               <div class="content-test">
                 <p class="description lead">
-                  Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit.
+    I have worked with Nilam Doctor at Learn with Limits on couple of PHP, MySQL projects. His technical skills are brilliant. Very positive attitude towards work.
                 </p>
                 <span class="comit"><i class="fa fa-quote-right"></i></span>
               </div>
