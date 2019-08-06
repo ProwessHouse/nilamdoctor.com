@@ -693,6 +693,13 @@
                             <div class="validation"></div>
                           </div>
                         </div>
+						<div class="col-md-12 mb-3">
+                          <div class="form-group">
+                            <input type="text" name="phone" class="form-control" id="phone" placeholder="Your Phone" data-rule="minlen:10" data-msg="Please enter at least 10 digits" />
+                            <div class="validation"></div>
+                          </div>
+                        </div>
+
                         <div class="col-md-12 mb-3">
                             <div class="form-group">
                               <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
@@ -720,23 +727,30 @@
                   </div>
                   <div class="more-info">
                     <p class="lead">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                      expedita aperiam aliquid at.
-                      Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                      mollitia inventore?
+                      You can contact me for
+					  <ul>
+					  <li>Project consultancy</li>
+					  <li>CryptCurrency consultancy</li>
+					  <li>Blockchain projects</li>
+					  <li>Mobile App Developments</li>
+					  <li>Individual Coaching</li>
+					  <li>Corporate consultancy</li>
+					  
+					  </ul>
                     </p>
                     <ul class="list-ico">
-                      <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                      <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                      <li><span class="ion-email"></span> contact@example.com</li>
+                      <li><span class="ion-ios-location"></span> 201, Upnishad Complex, Near Shreyas Railway Crossing, Manekbaug, Ahmedabad - 380015. Gujarat India</li>
+                      <li><span class="ion-ios-telephone"></span> +91 - 759 721 9319</li>
+                      <li><span class="ion-email"></span> me@nilamdoctor.com</li>
                     </ul>
                   </div>
                   <div class="socials">
                     <ul>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
+					  <li><a href="https://www.linkedin.com/in/nilamdoc/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
+                      <li><a href="https://www.facebook.com/nilamdoctorblockchain/" target="_blank"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
+                      <li><a href="https://www.instagram.com/nilamdoc/" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
+                      <li><a href="https://twitter.com/nilamdoc" target="_blank"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
+                      
                     </ul>
                   </div>
                 </div>
