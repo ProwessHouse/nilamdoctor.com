@@ -1,4 +1,4 @@
-<h1>Welcome to Ruchi Doctor's portal.</h1>
+<h1>Welcome to Nilam Doctor's portal.</h1>
 <p>
 Hi,<br>
 <br>
@@ -11,7 +11,7 @@ Subject: <?=$compact['subject']?><br>
 Message: <?=$compact['message']?><br>
 <br>
 - Team Ruchi Doctor<br>
-<img src="https://ruchidoctor.com/images/logo-straight.png" width="250">
+<img src="https://nilamdoctor.com/img/logo-straight.png" width="250">
 <br>
 P.S. We shall be contacting you shortly.
 <br>
